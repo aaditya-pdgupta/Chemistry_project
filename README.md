@@ -5,3 +5,5 @@
 * The milky solution was heated to about $40 ^{0}$C and added 10\% acetic acid solution drop wise when casein got precipitated. 
 * Filter the precipitate, wash with water, and the precipitate was allowed to dry. 
 * Weigh the dry solid mass in a previously weigh watch glass.
+
+[Link](https://github.com/aaditya-pdgupta)
