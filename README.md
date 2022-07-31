@@ -7,3 +7,5 @@
 * Weigh the dry solid mass in a previously weigh watch glass.
 
 [Link](https://github.com/aaditya-pdgupta)
+
+![Bar Graph](bargraph.jpg)
