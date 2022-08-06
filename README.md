@@ -6,6 +6,6 @@
 * Filter the precipitate, wash with water, and the precipitate was allowed to dry. 
 * Weigh the dry solid mass in a previously weigh watch glass.
 
-[Link](#https://github.com/aaditya-pdgupta)
+[Link](https://github.com/aaditya-pdgupta)
 
 ![Bar Graph](bargraph.jpg)
